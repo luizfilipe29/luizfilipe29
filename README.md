@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/luizfilipe29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfilipe29&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipe29&layout=compact&langs_cont=16&theme=radical ">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luizfilipe29&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipe29&layout=compact&langs_cont=16&theme=radical ">
 </div>
   
 <div>
@@ -16,5 +16,6 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
+  <a href="https://www.linkedin.com/in/luizfilipe29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 
